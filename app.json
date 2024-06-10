@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "drawer-bottom-tabs-navigator-react-native-by-amit-roy",
-    "slug": "drawer-bottom-tabs-navigator-react-native-by-amit-roy",
+    "name": "drawer-navigator-react-native-by-amit-roy",
+    "slug": "drawer-navigator-react-native-by-amit-roy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
